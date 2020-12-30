@@ -1,7 +1,8 @@
 # XMR_Mining
 
 ________________________
-Hello, welcome to my repo \n
+Hello, welcome to my repo
+
 Here I have created a script from which you can mine XMR automatically
 _______________________________________________________________________
 
