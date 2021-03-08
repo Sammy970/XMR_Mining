@@ -9,4 +9,4 @@ _______________________________________________________________________
 If you have any doubts, you can directly ask me on my telegram 
 @Sammy970
 
-[Contact me on my Telegram](t.me/Sammy970)
+[Contact me on my Telegram]: https://t.me/Sammy970
